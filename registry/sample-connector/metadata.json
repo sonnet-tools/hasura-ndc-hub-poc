@@ -1,0 +1,11 @@
+{
+  "overview": {
+    "namespace": "sample",
+    "description": "Sample connector for PoC",
+    "title": "Sample Connector",
+    "logo": "logo.png"
+  },
+  "source_code": {
+    "is_open_source": true
+  }
+}
